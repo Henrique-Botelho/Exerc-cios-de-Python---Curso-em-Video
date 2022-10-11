@@ -1,7 +1,7 @@
 # Exercícios de Python - Curso em Video
 
 Esse repositório abriga os exercícios que eu resolvi dos módulos 1, 2 e 3 de Python da plataforma [Curso em Video](https://www.cursoemvideo.com/).
-Todas as resoluções foram elaboradas e/ou com a ajuda das instruções do professor da plataforma [Gustavo Guanabara](https://www.cursoemvideo.com/sobre/).
+Todas as resoluções foram elaboradas inteiramente por mim ou com a ajuda das instruções do professor da plataforma [Gustavo Guanabara](https://www.cursoemvideo.com/sobre/).
 
 ## Sobre a organização do exercícios
 
