@@ -1,0 +1,5 @@
+real = round((float(input('Quantos reais você deseja converter? R$'))), 2)
+dol = round((real/5.59), 2)
+can = round((real/4.37), 2)
+print('-'*40)
+print('Com R${} você consegue comprar: \n{} dólares americanos \n{} dólares canadenses.'.format(real, dol, can))

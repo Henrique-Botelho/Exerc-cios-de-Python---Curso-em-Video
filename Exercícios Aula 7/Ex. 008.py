@@ -1,0 +1,5 @@
+valor = float(input('Digite um valor em metros:'))
+cent = valor*(10**2)
+mili = valor*(10**3)
+print('-'*30)
+print('{} metros --> {} centímetros \n{} metros --> {} milímetros.'.format(valor, cent, valor, mili))
