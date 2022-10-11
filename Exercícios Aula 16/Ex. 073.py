@@ -1,0 +1,10 @@
+times =('Atlético-MG', 'Flamengo', 'Palmeiras', 'Fortaleza', 'Corinthians', 'Bragantino', 'Fluminense', 'América-MG', 'Atlético-GO', 'Santos', 'Ceará SC', 'Internacional', 'São Paulo', 'Athletico-PR', 'Cuiabá', 'Juventude', 'Grêmio', 'Bahia', 'Sport Recife', 'Chapecoense')
+
+print('='*50)
+print('Os cincos primeiros times foram: \n', times[0:5])
+print('='*50)
+print('Os quatro últimos times foram: \n', times[-4:])
+print('='*50)
+print('Todos os times em ordem alfabética: \n', sorted(times))
+print('='*50)
+print(f'A Chapecoense ficou em {times.index("Chapecoense") +1 }º lugar.')
