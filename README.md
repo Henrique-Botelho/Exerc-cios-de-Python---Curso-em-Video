@@ -9,4 +9,4 @@ Os exercícios estão organizados em pastas de acordo com a aula em que foram pa
 Por exemplo: a pasta **Exercícios Aula 9** guarda do exercício 22 ao 27.
 
 ## Observações
-Alguns exercícios necessitam de módulos específicos do python para rodarem. Nesses casos, será necessária a instação, em sua máquina, do módulo em questão (confira as primeiras linhas do código para verificar o nome do módulo). O gerenciador de pacotes **pip** do python pode ser utilizado para baixar o módulo. Para saber mais sobre a documentação de um pacote ou para a sua correta instalação, [clique aqui](https://pypi.org/).
+Alguns exercícios necessitam de módulos específicos do python para rodarem. Nesses casos, será necessária a instalação, em sua máquina, do módulo em questão (confira as primeiras linhas do código para verificar o nome do módulo). O gerenciador de pacotes **pip** do python pode ser utilizado para baixar o módulo. Para saber mais sobre a documentação de um pacote ou para a sua correta instalação, [clique aqui](https://pypi.org/).
